@@ -1,3 +1,11 @@
 .grid-item__student {
     border: 2px solid sandybrown;
 }
+
+.grid-item__student img {
+    width: 50%;
+}
+
+body {
+    background-color: sandybrown;
+}
