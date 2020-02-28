@@ -9,3 +9,7 @@
 body {
     background-color: sandybrown;
 }
+
+.studentID--img img {
+    width: 100%;
+}
