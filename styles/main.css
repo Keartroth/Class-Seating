@@ -23,3 +23,7 @@ header {
 	text-align: center;
 	text-transform: uppercase;
 }
+
+.dialog--imgLarge {
+	width: 100%;
+}
