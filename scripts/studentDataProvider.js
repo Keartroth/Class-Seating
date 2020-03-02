@@ -44,7 +44,7 @@ const arrayOfStudentObjects = [
     },
     {
         name: "Daniel Fuqua",
-        image: "https://ca.slack-edge.com/T03F2SDTJ-USS5C35PX-g823ab3696e1-512",
+        image: "https://ca.slack-edge.com/T03F2SDTJ-USS5C35PX-7a3ffa8fc871-512",
         id: "danielFuqua",
         row: "one"
     },
