@@ -13,3 +13,23 @@ body {
 .studentID--img img {
     width: 100%;
 }
+
+dialog {
+    background-color: beige;
+}
+
+dialog h3 {
+    text-align: center;
+    font-size: 2em;
+}
+
+dialog button {
+    background-color: black;
+    color: whitesmoke;
+    display: block;
+    font-size: 1.5em;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    outline: none;
+}

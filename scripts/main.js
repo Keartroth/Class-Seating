@@ -1,15 +1,5 @@
-import student from "./studentList.js";
+import studentMaker from "./studentList.js";
+import initializeDetailButtonEvents from "./eventListener.js";
 
-student();
-
-
-console.log("Welcome to the main module")
-
-// const alert = () => {
-//     alert("Hello, I work!");
-// }
-
-// const initializeEventListener = () => {
-//     const imageListener = document.querySelectorAll(".studentID--img");
-//     imageListener.addEventListener("click", alert)
-// }
+studentMaker();
+initializeDetailButtonEvents();
